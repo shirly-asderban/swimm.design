@@ -57,7 +57,7 @@ app_version: 0.9.3-0
 
 <br/>
 
-6\. Once you're done, click on the `Share` button on the upper right side of the screen, change `general access` to `Swimm`, change permission to `Editor`, and click `Copy link`
+6\. Once you're done editing the presentation, click on the `Share` button on the upper right side of the screen, change `general access` to `Swimm`, change permission to `Editor`, and click `Copy link`
 
 
 
